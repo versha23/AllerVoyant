@@ -13,8 +13,19 @@
     <form id="allergy-form">
         <label for="avoid">Enter ingredients to avoid:</label>
         <input type="text" id="avoid" placeholder="e.g., gluten, dairy">
+         <div class="dropdown">
+            <button type="button" onclick="toggleDropdown()" class="dropbtn">Select Preferences</button>
+            <div id="myDropdown" class="dropdown-content">
+                <a href="#" onclick="addPreference('wheat')">Wheat</a>
+                <a href="#" onclick="addPreference('gluten')">Gluten</a>
+                <a href="#" onclick="addPreference('eggs')">Eggs</a>
+                <a href="#" onclick="addPreference('nuts')">Nuts</a>
+            </div>
+        </div>
+
         <button type="button" onclick="savePreferences()">Save Preferences</button>
     </form>
+</div>
 
     <h2>Check Ingredients</h2>
 
@@ -39,3 +50,4 @@
     <script src="app.js"></script>
 </body>
 </html>
+
