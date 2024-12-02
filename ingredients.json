@@ -1,0 +1,122 @@
+{
+    "gluten": [
+        "wheat", "barley", "rye", "triticum", "secale", "hordeum",
+        "glutenin", "gliadin", "semolina", "spelt", "kamut", "durum",
+        "bulgur", "farina", "einkorn", "emmer", "malt", "maltodextrin"
+    ],
+    "dairy": [
+        "milk", "casein", "whey", "lactose", "lactalbumin", "lactoglobulin",
+        "galactose", "beta-lactoglobulin", "butter", "cheese", "yogurt",
+        "ghee", "cream", "curd", "ricotta", "caseinate", "clarified butter"
+    ],
+    "nuts": [
+        "almond", "cashew", "hazelnut", "macadamia", "pecan", "walnut",
+        "arachis hypogaea", "brazil nut", "pistachio", "pine nut",
+        "filbert", "chestnut", "coconut", "nutmeg", "marzipan", "praline",
+        "gianduja", "nut oil"
+    ],
+    "soy": [
+        "soybean", "glycine max", "tofu", "edamame", "soya lecithin",
+        "soy protein isolate", "genistein", "tempeh", "miso", "natto",
+        "soy sauce", "shoyu", "tamari", "soya", "textured vegetable protein",
+        "vegetable oil", "hydrolyzed vegetable protein", "soy milk"
+    ],
+    "egg": [
+        "albumin", "egg white", "ovoglobulin", "ovomucoid", "ovalbumin",
+        "lysozyme", "vitellin", "ovovitelin", "egg yolk", "whole egg",
+        "dried egg", "egg powder", "mayonnaise", "meringue", "lecithin",
+        "avidin", "egg wash"
+    ],
+    "fish": [
+        "cod", "salmon", "tuna", "tilapia", "herring", "anchovy",
+        "eicosapentaenoic acid", "docosahexaenoic acid", "fish oil", 
+        "surimi", "omega-3 fatty acids", "pollock", "bass", "catfish",
+        "mackerel", "sardine", "fish sauce"
+    ],
+    "shellfish": [
+        "shrimp", "crab", "lobster", "prawn", "crustacean", "mollusk",
+        "chitin", "tropomyosin", "scallop", "clam", "oyster", "mussel",
+        "squid", "octopus", "crayfish", "abalone", "cuttlefish", "sea urchin"
+    ],
+    "peanuts": [
+        "arachis hypogaea", "peanut butter", "groundnut", "arachin",
+        "conarachin", "peanut oil", "boiled peanuts", "roasted peanuts",
+        "peanut flour", "peanut paste", "peanut sauce", "peanut brittle",
+        "peanut candy", "peanut meal", "defatted peanut flour"
+    ],
+    "celery": [
+        "apium graveolens", "celeriac", "celery salt", "phthalides", 
+        "apiin", "luteolin", "celery seed", "celery root", "celery powder",
+        "celery juice", "celery extract", "celery stalk", "diced celery",
+        "chopped celery", "celery leaves"
+    ],
+    "mustard": [
+        "sinapis", "mustard flour", "mustard seed", "allyl isothiocyanate", 
+        "sinigrin", "glucosinolate", "mustard oil", "ground mustard", 
+        "dijon mustard", "yellow mustard", "brown mustard", "honey mustard",
+        "mustard greens", "mustard powder", "whole mustard seeds"
+    ],
+    "sesame": [
+        "sesamum indicum", "tahini", "sesame oil", "sesamin", 
+        "sesamolin", "sesamol", "black sesame seeds", "white sesame seeds",
+        "roasted sesame seeds", "sesame paste", "sesame flour", 
+        "sesame snacks", "halva", "gomasio", "benne seed"
+    ],
+    "sulphites": [
+        "sulfur dioxide", "sodium bisulfite", "potassium metabisulfite",
+        "sodium sulfite", "sodium metabisulfite", "potassium bisulfite",
+        "calcium sulfite", "sodium thiosulfate", "sulphuric acid",
+        "sulfurous acid", "sodium hydrosulfite", "sodium dithionite",
+        "sulphur powder", "sulphur cream", "sodium sulfide"
+    ],
+    "glutamate": [
+        "monosodium glutamate", "msg", "glutamic acid", "e621", 
+        "hydrolyzed vegetable protein", "autolyzed yeast extract", 
+        "hydrolyzed soy protein", "sodium glutamate", "glutamate salt",
+        "natural flavoring", "umami seasoning", "glutamate acid",
+        "disodium inosinate", "disodium guanylate", "yeast extract"
+    ],
+    "artificial sweeteners": [
+        "aspartame", "acesulfame k", "sucralose", "saccharin",
+        "neotame", "advantame", "steviol glycosides", "sorbitol",
+        "mannitol", "xylitol", "erythritol", "maltitol", "isomalt",
+        "lactitol", "cyclamate", "alitame", "neohesperidin dihydrochalcone"
+    ],
+    "preservatives": [
+        "benzoic acid", "sodium benzoate", "calcium propionate", 
+        "potassium sorbate", "sodium nitrate", "sodium nitrite",
+        "bht", "bha", "tert-butylhydroquinone", "propyl gallate", 
+        "calcium disodium edta", "sodium diacetate", "potassium benzoate",
+        "sodium erythorbate", "sodium hexametaphosphate", "sorbic acid"
+    ],
+    "colorants": [
+        "tartrazine", "sunset yellow", "allura red", "erythrosine",
+        "brilliant blue fcf", "indigo carmine", "fast green fcf",
+        "carmoisine", "amaranth", "quinoline yellow", "annatto",
+        "caramel color", "beta-carotene", "chlorophyll", "cochineal extract",
+        "red 40", "yellow 5", "yellow 6", "blue 1", "blue 2"
+    ],
+    "emulsifiers": [
+        "lecithin", "polysorbate 80", "mono- and diglycerides", 
+        "sorbitan monostearate", "propylene glycol alginate", 
+        "carrageenan", "xanthan gum", "guar gum", "locust bean gum",
+        "alginate", "pectin", "maltodextrin", "agar", "modified starch",
+        "gellan gum", "sodium stearoyl lactylate", "calcium stearoyl lactylate"
+    ],
+    "seafood": [
+        "krill", "eel", "caviar", "squid ink", "wakame", "nori", 
+        "kombu", "seaweed extract", "dulse", "irish moss", "fish gelatin",
+        "shark cartilage", "mussels", "periwinkle", "whelk", "conch", 
+        "cockle", "octopus", "sea cucumber", "abalone", "sea urchin roe", 
+        "surimi", "fish roe", "lobster extract", "shrimp paste", "prawn crackers"
+    ],
+    "oils": [
+        "peanut oil", "sesame oil", "soybean oil", "canola oil", 
+        "safflower oil", "sunflower oil", "palm oil", "cottonseed oil", 
+        "coconut oil", "grapeseed oil", "walnut oil", "hazelnut oil",
+        "almond oil", "argan oil", "poppyseed oil", "mustard oil", 
+        "rice bran oil", "hemp oil", "flaxseed oil", "avocado oil", 
+        "olive oil", "fish oil", "cod liver oil", "krill oil", "menhaden oil"
+    ]
+    
+}

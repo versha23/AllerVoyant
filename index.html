@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Allergy Detector</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="overlay"></div> <!-- Overlay for darkening the background image -->
+    <h1>Food Allergy Detector</h1>
+    <div class="center-content"> <!-- Start of new wrapper div to center content -->
+    <form id="allergy-form">
+        <label for="avoid">Enter ingredients to avoid:</label>
+        <input type="text" id="avoid" placeholder="e.g., gluten, dairy">
+        <button type="button" onclick="savePreferences()">Save Preferences</button>
+    </form>
+
+    <h2>Check Ingredients</h2>
+
+    <!-- File Upload Input -->
+    <input type="file" id="file-input" accept="image/*" onchange="processImage()">
+
+    <!-- New Button to Take Picture with Camera -->
+    <input type="file" id="camera-input" accept="image/*" capture="environment" style="display:none;">
+    <button type="button" onclick="openCamera()">Take a Picture</button>
+
+    <!-- Image Preview -->
+    <img id="image-preview" alt="Image Preview" style="display:none; max-width:100%; height:auto;"/>
+
+    <div id="results"></div>
+</div> <!-- End of new wrapper div -->
+
+<h2>Analysis History</h2>
+<div id="history"></div>
+<button type="button" onclick="displayHistory()">Show History</button>
+<button type="button" onclick="clearHistory()">Clear History</button>
+
+    <script src="app.js"></script>
+</body>
+</html>
